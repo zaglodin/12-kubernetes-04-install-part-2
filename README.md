@@ -7,6 +7,7 @@
 * в качестве CRI — containerd;
 * запуск etcd производить на мастере.
 
+## Ответ:
 
 Переработанный invetory из kubespray: [inventory.ini](./inventory.ini)
 
